@@ -1190,3 +1190,36 @@ footer .fk-col {
 }
 @media (max-width: 992px) {
 }
+#cc-id-wO6SiYVhNetN {
+  height: 30px;
+  color: black !important;
+  width: 30px !important;
+}
+#cc-id-uI6OTYYDXGLU {
+  cursor: pointer;
+}
+#cc-id-ae5wqb0PGrRu {
+  height: 30px;
+  color: black !important;
+  width: 30px !important;
+}
+@media (max-width: 992px) {
+  #cc-id-wO6SiYVhNetN,
+  #cc-id-ae5wqb0PGrRu,
+  #fkt-image-301-5a4-b40,
+  #fkt-image-214-d9e-b58 {
+    object-fit: contain;
+    width: 20px !important;
+    height: 20px !important;
+  }
+}
+@media (max-width: 992px) {
+  #cc-id-wO6SiYVhNetN,
+  #cc-id-ae5wqb0PGrRu,
+  #fkt-image-301-5a4-b40,
+  #fkt-image-214-d9e-b58 {
+    object-fit: contain;
+    width: 20px !important;
+    height: 20px !important;
+  }
+}
